@@ -1,6 +1,21 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Objects","order":2,"path":"folders/Objects.yy",},
+    {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
+  ],
   "ResourceOrderSettings":[
-    {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"oDiamond","order":1,"path":"objects/oDiamond/oDiamond.yy",},
+    {"name":"oEmerald","order":4,"path":"objects/oEmerald/oEmerald.yy",},
+    {"name":"oEnemyDrill","order":8,"path":"objects/oEnemyDrill/oEnemyDrill.yy",},
+    {"name":"oEnemyDrillSpawner","order":7,"path":"objects/oEnemyDrillSpawner/oEnemyDrillSpawner.yy",},
+    {"name":"oGemSpawner","order":2,"path":"objects/oGemSpawner/oGemSpawner.yy",},
+    {"name":"oRuby","order":5,"path":"objects/oRuby/oRuby.yy",},
+    {"name":"oTopDownDrill","order":6,"path":"objects/oTopDownDrill/oTopDownDrill.yy",},
+    {"name":"background","order":3,"path":"sprites/background/background.yy",},
+    {"name":"sDiamond","order":1,"path":"sprites/sDiamond/sDiamond.yy",},
+    {"name":"sEmerald","order":2,"path":"sprites/sEmerald/sEmerald.yy",},
+    {"name":"sEnemyDrill","order":5,"path":"sprites/sEnemyDrill/sEnemyDrill.yy",},
+    {"name":"sRuby","order":4,"path":"sprites/sRuby/sRuby.yy",},
+    {"name":"sTopDownDrill","order":6,"path":"sprites/sTopDownDrill/sTopDownDrill.yy",},
   ],
 }
